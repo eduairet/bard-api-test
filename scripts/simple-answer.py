@@ -1,4 +1,4 @@
-"""Google Bard API questios"""
+"""Google Bard API test"""
 
 import os
 import bardapi
